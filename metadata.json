@@ -1,0 +1,5 @@
+{
+  "name": "Light Text-to-Image",
+  "description": "A lightweight, free-tier generative AI image creator and editor using Gemini 2.5.",
+  "requestFramePermissions": []
+}
